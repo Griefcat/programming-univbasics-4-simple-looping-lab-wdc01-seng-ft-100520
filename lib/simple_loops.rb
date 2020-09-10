@@ -1,3 +1,6 @@
+
+
+
 def loop_message_n_times(string, integer)
   count = 0 
   while count < integer 
@@ -5,8 +8,6 @@ def loop_message_n_times(string, integer)
     count += 1 
   end 
 end 
-
-loop_message_n_times("I love Juan", 100)
 
 
   
