@@ -7,7 +7,4 @@ def output_array(array)
   end 
 end 
 
-love = ["Juan", "is", "my", "husband"]
-output_array(love)
-
   
