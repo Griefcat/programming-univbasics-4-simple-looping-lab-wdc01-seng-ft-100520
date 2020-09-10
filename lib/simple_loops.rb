@@ -6,7 +6,7 @@ def loop_message_n_times(string, integer)
   end 
 end 
 
-loop_message_n_times("I love Juan", 12)
+loop_message_n_times("I love Juan", 100)
 
 
   
