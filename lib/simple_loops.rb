@@ -29,6 +29,7 @@ def return_string_array(array)
     puts array[counter].to_s 
     counter += 1 
   end 
+  array 
 end 
 
   
